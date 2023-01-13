@@ -1,0 +1,2177 @@
+@media only screen and (max-width: 1400px) {
+    .blog__title {
+        padding-left: 40px;
+    }
+    .group__finish {
+        padding-left: 180px;
+    }
+    .for__card-boxfirst {
+        width: 95%;
+    }
+    .for__card-first {
+        width: 100%;
+        margin-left: 0;
+    }
+    .for__card-boxsecond {
+        width: 95%;
+    }
+    .for__card-second {
+        width: 100%;
+    }
+    .for__card-boxthree {
+        width: 95%;
+        margin-left: 0;
+    }
+    .for__card-three {
+        width: 100%;
+        margin-left: 0;
+    }
+}
+
+@media only screen and (max-width: 1330px) {
+    .discount__title {
+        padding-left: 60px;
+    }
+    .group__site {
+        justify-content: space-between;
+        padding-left: 30px;
+    }
+    .group__box-bgimg {
+        background-position-x: center;
+        background-size: 110%;
+    }
+    .group__education-mounth {
+        margin-bottom: 90px;
+    }
+    .group__education-text {
+        margin-bottom: 100px;
+    }
+}
+
+@media only screen and (max-width: 1250px) {
+    .discount__box {
+        padding-top: 50px;
+    }
+    .discount__title {
+        padding-left: 50px;
+    }
+    .dropbtn {
+        font-size: 18px;
+        padding: 10px;
+    }
+    .navs__link {
+        font-size: 18px;
+        padding: 30px 5px;
+    }
+    .tell {
+        padding: 0;
+    }
+    .tell__text {
+        background-color: black;
+    }
+    .group__education-mounth {
+        margin-bottom: 60px;
+    }
+    .request__box {
+        padding: 150px 20px;
+    }
+    .request__card {
+        width: 100%;
+    }
+    .request__card-imgbox {
+        width: 35%;
+    }
+    .frontend__card {
+        width: 550px;
+    }
+    .frontend__card-title {
+        font-size: 35px;
+    }
+    .frontend__card-bottom {
+        padding: 34px 31px 64px 31px;
+    }
+    .footer__locbox {
+        padding: 20px;
+    }
+    .footer__map {
+        width: 100%;
+        padding: 20px;
+    }
+    .footer__map-location {
+        width: 100%;
+        height: 100%;
+    }
+    .footermap__box {
+        width: 100%;
+        /* height: 100%; */
+    }
+    .footer__partners-item {
+        width: 100%;
+        padding: 20px;
+    }
+    .footer__partners {
+        padding-top: 50px;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .main__four-title {
+        font-size: 60px;
+    }
+    .discount__title {
+        padding-left: 45px;
+    }
+    .blog {
+        padding-top: 100px;
+    }
+    .blog__item {
+        width: 100%;
+        justify-content: space-around;
+    }
+    .js__hard {
+        margin-bottom: 20px;
+    }
+    .sale__form {
+        width: 40%;
+    }
+    .sale__form-input {
+        width: 100%;
+    }
+    .sale__form-btn {
+        text-align: center;
+        padding: 25px 0;
+    }
+    .sale__first {
+        width: 20%;
+    }
+    .sale__first-box {
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: 37px;
+        text-align: center;
+    }
+    .sale__first-ochno {
+        font-size: 16px;
+        padding: 11px 0;
+    }
+    .sale__first-online {
+        font-size: 16px;
+        padding: 11px 0 11px 5px;
+    }
+    .sale__course {
+        font-size: 20px;
+    }
+    .sale__year {
+        font-size: 30px;
+    }
+    .sale__money {
+        width: 30%;
+    }
+    .predlojeniye-text {
+        font-size: 26px;
+    }
+    .reklama__left {
+        width: 40%;
+    }
+    .review__box {
+        padding-bottom: 100px;
+    }
+}
+
+@media only screen and (max-width: 1150px) {
+    .navbars {
+        display: flex;
+        align-items: center;
+    }
+    .navs {
+        margin-left: auto;
+    }
+    .dropbtn {
+        font-size: 16px;
+        padding: 10px;
+    }
+    .navs__link {
+        font-size: 16px;
+        padding: 25px 5px;
+    }
+    .logo-navbar {
+        width: 200px;
+    }
+    .discount__box {
+        padding-top: 40px;
+    }
+    .discount__title {
+        padding-left: 35px;
+    }
+    .blog__list {
+        width: 310px;
+    }
+    .main__four-title {
+        font-size: 55px;
+    }
+    .main__four-it {
+        font-size: 55px;
+    }
+    .group__education-text {
+        margin-bottom: 70px;
+    }
+    .group__site-sites {
+        font-size: 32px;
+    }
+    .duration__mounth {
+        font-size: 32px;
+    }
+    .duration__date {
+        font-size: 110px;
+    }
+    .duration__time {
+        font-size: 30px;
+    }
+    .group__site-img {
+        width: 320px;
+    }
+    .frontend__card {
+        width: 470px;
+    }
+    .frontend__card-top {
+        background-size: auto;
+    }
+    .frontend__card-bottom {
+        padding: 20px 20px 40px 20px;
+    }
+    .frontend__card-img {
+        width: 200px;
+        height: 200px;
+        margin-bottom: 50px;
+    }
+    .frontend__card-text {
+        font-size: 18px;
+    }
+    .frontend__card-link {
+        font-size: 30px;
+    }
+    .frontend__card:hover .frontend__card-img {
+        width: 200px;
+        height: 200px;
+    }
+    @keyframes example {
+        0% {
+            left: 0px;
+            top: 0px;
+            bottom: 0;
+        }
+        100% {
+            /* transform: scale(1.05); */
+            left: 130px;
+            bottom: 0px;
+        }
+    }
+}
+
+@media only screen and (max-width: 1100px) {
+    .discount__title {
+        padding-left: 25px;
+    }
+    .group__education-box {
+        padding-top: 150px;
+    }
+    .group__education-title {
+        font-size: 28px;
+    }
+    .group__education-text {
+        margin-bottom: 30px;
+    }
+    .request__card-info {
+        width: 55%;
+    }
+    .request__card-imgbox {
+        width: 45%;
+    }
+    .request__card-img {
+        width: 120%;
+    }
+    .request__card-link {
+        margin-left: 0;
+    }
+}
+
+@media only screen and (max-width: 1050px) {
+    .discount__title {
+        font-size: 90px;
+    }
+    .blog__list {
+        width: 30%;
+    }
+    .blog__linkpage {
+        padding: 17px 85px 18px 90px;
+        font-size: 28px;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .navs__link {
+        font-size: 15px;
+        padding: 25px 0px;
+    }
+    .main__one {
+        background-position-x: 35%;
+    }
+    .title {
+        font-size: 41px;
+    }
+    .main__one-btn {
+        height: 80px;
+        width: 400px;
+        font-size: 35px;
+    }
+    .main__two-link {
+        width: 700px;
+        font-weight: 700;
+        font-size: 40px;
+    }
+    .main__two-list {
+        width: 49.5%;
+    }
+    .main__three {
+        background-size: 100%;
+        background-position-y: 50%;
+        background-size: cover;
+    }
+    .main__three-title {
+        font-weight: 700;
+        font-size: 45px;
+    }
+    .main__four-title {
+        font-size: 36px;
+    }
+    .main__four-it {
+        font-size: 36px;
+    }
+    .main__four-text {
+        max-width: 500px;
+        font-size: 28px;
+        font-weight: 600;
+    }
+    .main__four-form {
+        width: 100%;
+        padding: 30px;
+    }
+    .main__four-inputname {
+        width: 100%;
+    }
+    .main__four-label {
+        width: 100%;
+    }
+    .main__four-numbers {
+        width: 100%;
+    }
+    .discount__title {
+        padding-left: 20px;
+    }
+    .main__four-links {
+        width: 100%;
+        text-align: center;
+    }
+    .main__four-link {
+        width: 100%;
+        font-size: 55px;
+        font-weight: 700;
+    }
+    .codecraftcompany__text {
+        max-width: 80%;
+    }
+    .codecraftcompany__linkbox {
+        width: 100%;
+        text-align: center;
+    }
+    .codecraftcompany__link {
+        width: 80%;
+        font-size: 55px;
+    }
+    .js__img-box {
+        width: 45%;
+    }
+    .js__info {
+        width: 55%;
+    }
+    .group__box {
+        background-position-x: center;
+        height: 3000px;
+    }
+    .group__site {
+        display: block;
+    }
+    .group__finish {
+        padding-left: 30px;
+    }
+    .group__site-sites {
+        margin-bottom: 20px;
+    }
+    .group__education {
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+    .group__box-bgimg {
+        width: 50%;
+        height: 550px;
+        margin: 0 auto;
+        background-size: auto;
+    }
+    .group__education-text {
+        margin-bottom: 120px;
+    }
+    .group__skidkabox {
+        margin: 0 auto;
+    }
+    .group__line {
+        width: 90%;
+    }
+    .for__card-boxfirst {
+        margin: 0 auto;
+        background-size: 100%;
+    }
+    .for__card-boxsecond {
+        margin: 0 auto;
+    }
+    .for__card-boxthree {
+        margin: 0 auto;
+    }
+    .for__card-title {
+        font-size: 80px;
+    }
+    .for__card-line {
+        border: 6px solid #fff;
+    }
+    .for__card-text {
+        font-size: 20px;
+    }
+    .for__card-lefttitle {
+        font-size: 40px;
+    }
+    .for__cardleft-title {
+        font-size: 22px;
+    }
+    .for__card-circle {
+        width: 15px;
+        height: 15px;
+    }
+    .main__four-btn {
+        width: 90%;
+        padding: 27px 0;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .discount__box {
+        background-image: url(../assets/images/sections-bg.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    .discount__title {
+        color: #0AEB06;
+    }
+    .sale__bottom {
+        display: block;
+    }
+    .sale__first {
+        width: 80%;
+        margin: 0 auto;
+        text-align: center;
+        padding-bottom: 50px;
+    }
+    .sale__year {
+        display: block;
+    }
+    .sale__first-box {
+        width: 240px;
+    }
+    .sale__form {
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+    .sale__money {
+        width: 80%;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+    }
+    .sale__money-box {
+        width: 49%;
+    }
+    .job__text-box {
+        padding-top: 50px;
+    }
+    .reklama__box-right {
+        width: 58%;
+    }
+    .review__box {
+        width: 95%;
+    }
+    .request__box {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        padding: 50px 20px;
+    }
+    .request__card {
+        display: block;
+        width: 48%;
+        border: 6px solid #0AEB06;
+    }
+    .request__card-imgbox {
+        width: 100%;
+    }
+    .request__card-img {
+        width: 135%;
+    }
+    .request__card-info {
+        padding: 15px;
+        width: 100%;
+    }
+    .request__card-link {
+        width: 70%;
+        padding: 10px 0;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .zayavka__title {
+        font-size: 80px;
+    }
+    .zayavka__box {
+        padding: 50px 0;
+    }
+    .studio__title {
+        font-size: 58px;
+        padding-left: 115px;
+    }
+    .studio__title-end {
+        font-size: 58px;
+    }
+    .us__title {
+        font-size: 50px;
+        margin-bottom: 30px;
+    }
+    .studio__link {
+        font-size: 40px;
+    }
+    .studio__networks {
+        padding-left: 0;
+    }
+    .us__box {
+        padding: 100px 0;
+    }
+    .us__right {
+        width: 49%;
+    }
+    .us__left {
+        width: 49%;
+    }
+    .aboutstudio {
+        width: 90%;
+    }
+    .aboutstudoi__img {
+        width: 30%;
+    }
+    .aboutstudio__title {
+        font-size: 40px;
+    }
+    .navs {
+        display: none;
+    }
+    .menu-mobile {
+        width: 30%;
+        display: block;
+    }
+    .btn-menu {
+        display: block;
+    }
+    .it__title {
+        font-size: 80px;
+        line-height: normal;
+        text-align: center;
+    }
+    .frontend__card {
+        width: 100%;
+    }
+    .frontend__card-top {
+        background-size: auto;
+    }
+    .frontend__card-img {
+        margin-bottom: 30px;
+    }
+    .frontend__card-title {
+        font-size: 25px;
+    }
+    .frontend__card-span {
+        text-align: center;
+        width: 70%;
+        margin: 20px auto;
+    }
+    .frontend__card-link {
+        display: block;
+        width: 90%;
+        margin: 0 auto;
+        font-size: 25px;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .frontend__card {
+        width: 80%;
+        margin: 0 auto;
+    }
+    .frontend__card-top {
+        background-size: 100%;
+        padding-top: 396px;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .main__one {
+        padding-top: 200px;
+        padding-bottom: 100px;
+        background-position-x: 30%;
+    }
+    .main__two-item {
+        margin-bottom: 60px;
+    }
+    .main__two-box {
+        padding: 0 0 60px 0;
+    }
+    .main__four-text {
+        max-width: 90%;
+        margin-bottom: 50px;
+    }
+    .main__four-inputname {
+        margin-bottom: 40px;
+    }
+    .main__four-numbers {
+        margin-bottom: 40px;
+    }
+    .main__four {
+        padding: 60px 0 60px 0;
+    }
+    .discount__title {
+        font-size: 80px;
+        padding-bottom: 50px;
+    }
+    .discount__title-end {
+        font-size: 80px;
+    }
+    .discount__text {
+        font-size: 28px;
+        font-weight: 600;
+        padding-left: 20px;
+    }
+    .game__info {
+        font-size: 30px;
+        font-weight: 400;
+        padding: 0 10px;
+    }
+    .blog__item {
+        padding-left: 0;
+    }
+    .blog__list {
+        border-radius: 40px;
+    }
+    .blog__link {
+        width: 194px;
+        padding: 16px 38px 16px 44px;
+    }
+    .kabinet__box {
+        padding: 100px 0 200px 0;
+    }
+    .codecraftcompany__text {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .codecraftcompany__link {
+        font-size: 45px;
+        padding: 27px 0;
+        font-weight: 600;
+    }
+    .codecraftcompany__img {
+        margin-bottom: 50px;
+    }
+    .js__box {
+        flex-direction: column-reverse;
+    }
+    .js__info {
+        width: 80%;
+        margin: 0 auto;
+    }
+    .js__title {
+        max-width: 90%;
+    }
+    .js__item {
+        padding: 0;
+    }
+    .js__img-box {
+        width: 100%;
+        height: 400px;
+    }
+    .js__img {
+        height: 400px;
+    }
+    .for__card-title {
+        font-size: 75px;
+    }
+    .job__text-box {
+        padding-top: 70px;
+        padding-bottom: 30px;
+    }
+    .frontend__card-top {
+        padding-top: 350px;
+    }
+    .footer__partners-title {
+        margin-bottom: 30px;
+    }
+}
+
+@media only screen and (max-width: 865px) {
+    .frontend__card-top {
+        padding-top: 300px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .dropbtn {
+        font-size: 18px;
+        padding: 10px;
+    }
+    .discount__title {
+        font-size: 64px;
+        font-weight: 700;
+    }
+    .discount__title-end {
+        font-size: 64px;
+        font-weight: 600;
+    }
+    .discount__text {
+        font-size: 25px;
+        font-weight: 500;
+    }
+    .game__title {
+        font-size: 32px;
+    }
+    .game__text {
+        font-size: 22px;
+        font-weight: 600;
+        margin-bottom: 50px;
+    }
+    .navs__link {
+        font-size: 18px;
+        padding: 30px 5px;
+    }
+    .tell {
+        padding: 0;
+    }
+    .tell__text {
+        background-color: black;
+    }
+    .reklama__box {
+        display: block;
+    }
+    .reklama__box-right {
+        width: 90%;
+        margin: 0 auto;
+        padding-bottom: 50px;
+    }
+    .reklama__left {
+        width: 70%;
+        margin: 0 auto;
+        padding: 150px 50px;
+    }
+    .frontend__card-top {
+        padding-top: 260px;
+    }
+    .footer__locbox {
+        padding: 20px;
+    }
+    .footer__map {
+        width: 100%;
+        padding: 20px;
+    }
+    .footer__map-location {
+        width: 100%;
+        height: 100%;
+        border-radius: 0%;
+        border: 4px solid green;
+    }
+    .footermap__box {
+        width: 100%;
+        border-radius: 0%;
+    }
+    .footer__partners-item {
+        width: 100%;
+        padding: 20px;
+    }
+    .footermap__box {
+        height: 600px;
+    }
+}
+
+@media only screen and (max-width: 760px) {
+    .main__two-list {
+        width: 100%;
+        height: 250px;
+        margin-bottom: 10px;
+    }
+    .main__two-link {
+        width: 80%;
+        margin: 0 auto;
+        font-size: 35px;
+        font-weight: 600;
+    }
+    .discount {
+        padding-top: 0;
+    }
+    .discount__box {
+        padding-top: 0;
+    }
+    .discount__text {
+        line-height: normal;
+    }
+    .game__title {
+        margin-bottom: 40px;
+    }
+    .game__info {
+        font-size: 22px;
+        line-height: normal;
+    }
+    .game__text {
+        font-size: 20px;
+        font-weight: 500;
+        padding: 0 20px;
+    }
+    .blog {
+        padding-top: 30px;
+    }
+    .blog__box {
+        text-align: center;
+        padding: 50px 0;
+    }
+    .blog__title {
+        padding-left: 0;
+    }
+    .blog__item {
+        flex-wrap: wrap;
+        margin-bottom: 50px;
+    }
+    .blog__list {
+        width: 90%;
+        margin-bottom: 35px;
+        border-radius: 100px;
+    }
+    .blog__link {
+        width: 70%;
+    }
+    .blog__linkpage {
+        width: 65%;
+    }
+    .blog__img {
+        height: 400px;
+    }
+    .interesting {
+        text-align: center;
+    }
+    .interesting__box {
+        padding: 60px 0;
+    }
+    .kabinet__title {
+        font-size: 60px;
+        margin-bottom: 40px;
+    }
+    .kabinet__form {
+        width: 100%;
+        text-align: center;
+    }
+    .kabinet__label {
+        margin-bottom: 30px;
+    }
+    .kabinet__input {
+        width: 80%;
+    }
+    .kabinet__btn {
+        margin: 0;
+    }
+    .main__four-links {
+        width: 100%;
+    }
+    .main__four-it {
+        margin-left: 5px;
+    }
+    .main__four-link {
+        font-size: 48px;
+        font-weight: 600;
+    }
+    .discount__title {
+        font-size: 55px;
+    }
+    .discount__title-end {
+        font-size: 55px;
+    }
+    .codecraftcompany__img {
+        margin-bottom: 0;
+    }
+    .codecraftcompany__text {
+        font-weight: 400;
+        font-size: 18px;
+        margin: 15px auto;
+    }
+    .codecraftcompany__linkbox {
+        padding-top: 60px;
+    }
+    .codecraftcompany__link {
+        font-size: 35px;
+        font-weight: 600;
+        padding: 20px 0;
+    }
+    .js__box {
+        padding-top: 180px;
+    }
+    .js__info {
+        width: 90%;
+    }
+    .js__title {
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+    .js__text {
+        font-size: 14px;
+    }
+    .js__item {
+        margin-bottom: 50px;
+    }
+    .group__finish {
+        padding-top: 125px;
+    }
+    .group__finish-info {
+        font-size: 18px;
+    }
+    .duration__date {
+        font-size: 70px;
+    }
+    .duration__time {
+        font-size: 18px;
+    }
+    .group__box-bgimg {
+        width: 70%;
+    }
+    .group__box {
+        padding-bottom: 0;
+    }
+    .group__education-btn {
+        width: 70%;
+        font-size: 25px;
+        padding: 10px 25px;
+    }
+    .for__card-boxfirst {
+        background-image: url(../assets/images/firstbg.png);
+        background-size: auto;
+        background-position-x: calc(75%);
+    }
+    .for__card-boxsecond {
+        background-image: url(../assets/images/secondbg.png);
+        background-position-x: calc(75%);
+    }
+    .for__card-first {
+        flex-direction: column-reverse;
+        padding: 20px;
+        margin-bottom: 10px;
+    }
+    .for__card-second {
+        padding: 20px;
+    }
+    .for__card-left {
+        width: 100%;
+    }
+    .for__card-three {
+        padding: 20px;
+    }
+    .for__card-leftthree {
+        text-align: start;
+        padding-right: 0;
+    }
+    .for__card-infothree {
+        flex-direction: inherit;
+    }
+    .for__card-line {
+        margin-bottom: 20px;
+        margin-left: 0;
+        border: 3px solid #fff;
+    }
+    .for__card-info {
+        margin-bottom: 10px;
+    }
+    .for__card-boxthree {
+        background-image: url(../assets/images/threebg.png);
+        background-position-x: calc(75%);
+    }
+    .for__card-infothree {
+        margin-bottom: 10px;
+    }
+    .for__card-right {
+        width: 100%;
+    }
+    .for__card-title {
+        font-size: 35px;
+        max-width: 100%;
+        line-height: normal;
+        margin-bottom: 20px;
+    }
+    .for__cardleft-title {
+        font-size: 20px;
+    }
+    .for__card-text {
+        font-size: 18px;
+    }
+    .sale__box {
+        padding-bottom: 50px;
+    }
+    .sale__top-title {
+        font-size: 35px;
+    }
+    .sale__form-input {
+        margin-bottom: 60px;
+    }
+    .sale__form-inputone {
+        padding: 20px 10px;
+        font-size: 20px;
+        border: 3px solid #0AEB06;
+    }
+    .sale__form-input {
+        padding: 20px 10px;
+        font-size: 20px;
+        border: 3px solid #0AEB06;
+    }
+    .sale__form-btn {
+        width: 50%;
+        font-size: 20px;
+        padding: 20px 0;
+        line-height: normal;
+        border: 3px solid #FFFFFF;
+    }
+    .predlojeniye-text {
+        font-size: 24px;
+    }
+    .review__text {
+        font-size: 18px;
+        font-weight: 700;
+    }
+    .request__card {
+        width: 100%;
+        padding: 0;
+    }
+    .request__card-img {
+        width: 130%;
+    }
+    .request__card-title {
+        font-size: 35px;
+    }
+    .request__card-item {
+        padding-left: 20px;
+    }
+    .request__card-texttitle {
+        font-size: 22px;
+    }
+    .request__card-alert {
+        font-size: 25px;
+    }
+    .job__title {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+    .job__text {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .main__four-btn {
+        font-size: 50px;
+    }
+    .zayavka__title {
+        font-size: 60px;
+        margin-bottom: 30px;
+    }
+    .us__box {
+        padding: 30px 0;
+    }
+    .us__left {
+        padding-top: 80px;
+    }
+    .studio__networks {
+        padding-bottom: 150px;
+    }
+    .it__box {
+        padding: 50px 0;
+    }
+    .it__title {
+        font-size: 70px;
+    }
+    .footermap__box {
+        height: 600px;
+    }
+    .footer__partners-item {
+        display: block;
+        width: 50%;
+    }
+    .footer {
+        padding: 50px 0;
+    }
+}
+
+@media only screen and (max-width: 730px) {
+    .frontend__card-top {
+        padding-top: 210px;
+    }
+}
+
+@media only screen and (max-width: 680px) {
+    .main__four-text {
+        font-size: 44px;
+        font-weight: 600;
+    }
+    .main__four-it {
+        font-size: 32px;
+        font-weight: 500;
+    }
+    .main__four-link {
+        padding: 20px 10px;
+    }
+    .main__four-title {
+        max-width: 90%;
+        font-size: 32px;
+        font-weight: 500;
+    }
+    .main__four-text {
+        font-size: 25px;
+        font-weight: 500;
+    }
+    .main__four-telnums {
+        font-size: 25px;
+    }
+    .main__three {
+        padding: 50px 0;
+    }
+    .main__three-title {
+        margin: 0 auto;
+        max-width: 50%;
+        font-size: 40px;
+    }
+    .interesting__pagebox {
+        width: 100%;
+    }
+    .interesting__prev {
+        padding: 10px 0;
+        width: 100px;
+        font-size: 20px;
+        margin-left: auto;
+    }
+    .interesting__next {
+        padding: 10px 0;
+        width: 100px;
+        font-size: 20px;
+        margin-right: auto;
+    }
+    .sale__money {
+        width: 95%;
+    }
+    .footermap__box {
+        height: 600px;
+    }
+}
+
+@media only screen and (max-width: 670px) {
+    .frontend__card-top {
+        padding-top: 170px;
+    }
+}
+
+@media only screen and (max-width: 650px) {
+    .game__text {
+        max-width: 400px;
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .main__three-title {
+        margin: 0 auto;
+        max-width: 60%;
+        font-size: 40px;
+    }
+    .main__four-title {
+        text-align: center;
+        max-width: 90%;
+        justify-content: center;
+        font-size: 30px;
+    }
+    .main__four-text {
+        font-size: 23px;
+    }
+    .main__four-it {
+        font-size: 30px;
+    }
+    .main__four-inputname {
+        font-size: 28px;
+        font-weight: 600;
+    }
+    .main__four-inputtel {
+        font-size: 28px;
+        font-weight: 600;
+    }
+    .main__four-link {
+        font-size: 40px;
+    }
+    .blog__linkpage {
+        padding: 17px 0;
+    }
+    .kabinet__box {
+        padding: 50px 0 100px 0;
+    }
+    .kabinet__title {
+        font-size: 50px;
+    }
+    .kabinet__input {
+        padding: 10px;
+        border-radius: 12px;
+    }
+    .kabinet__label-text {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .kabinet__btn {
+        width: 50%;
+        font-size: 25px;
+        height: 50px;
+    }
+    .group__skidkabox {
+        width: 90%;
+        padding: 24px 53px;
+    }
+    .group__skidka-text {
+        width: 100%;
+    }
+    .group__skidka-text::before {
+        width: 100%;
+        font-size: 25px;
+        font-weight: 500;
+    }
+    .group__finish {
+        padding-bottom: 30px;
+    }
+    .footermap__box {
+        height: 600px;
+    }
+    .footer__map {
+        padding: 0;
+    }
+}
+
+@media only screen and (max-width: 620px) {
+    .frontend__card {
+        width: 85%;
+    }
+    .frontend__card-top {
+        padding-top: 135px;
+    }
+    .frontend__card-img {
+        width: 230px;
+        height: 230px;
+    }
+    .frontend__card:hover .frontend__card-img {
+        width: 230px;
+        height: 230px;
+    }
+}
+
+@media only screen and (max-width: 590px) {
+    .main__one {
+        padding: 100px 0 100px 0;
+    }
+    .title {
+        font-size: 40px;
+    }
+    .main__one-btn {
+        width: 300px;
+        font-size: 30px;
+    }
+    .main__two-link {
+        font-size: 30px;
+    }
+    .main__three-title {
+        font-size: 36px;
+    }
+    .main__four-text {
+        max-width: 70%;
+        margin: 0 auto;
+        font-size: 20px;
+    }
+    .main__four-title {
+        max-width: 100%;
+        font-size: 27px;
+    }
+    .main__four-link {
+        font-size: 30px;
+        padding: 10px 10px;
+    }
+    .discount__box {
+        background-size: 180%;
+        padding-bottom: 20px;
+    }
+    .discount__title {
+        font-size: 50px;
+        padding-bottom: 100px;
+    }
+    .discount__title-end {
+        font-size: 50px;
+    }
+    .discount__text {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .game__title {
+        font-size: 30px;
+    }
+    .game__info {
+        font-size: 20px;
+        font-weight: 300;
+    }
+    .codecraftcompany__box {
+        padding: 0;
+    }
+    .codecraftcompany__text {
+        line-height: 22px;
+        font-weight: 300;
+        font-size: 16px;
+        margin: 10px auto;
+    }
+    .codecraftcompany__link {
+        font-size: 30px;
+        padding: 10px 0;
+    }
+    .group__skidkabox {
+        padding: 20px 40px;
+    }
+    .group__skidka-text::before {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .group__box-bgimg {
+        width: 95%;
+    }
+    .group__site-img {
+        width: 80%;
+    }
+    .for__card-title {
+        font-size: 30px;
+    }
+    .for__card-lefttitle {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .for__cardleft-title {
+        font-size: 18px;
+    }
+    .for__card-text {
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .for__card-circle {
+        width: 12px;
+        height: 12px;
+    }
+    .sale__top-text {
+        font-size: 20px;
+    }
+    .sale__top-box {
+        font-size: 24px;
+        padding-left: 115px;
+    }
+    .sale__top-info {
+        font-size: 24px;
+    }
+    .job__text-box {
+        padding-top: 0;
+    }
+    .predlojeniye-text {
+        font-size: 20px;
+    }
+    .reklama__box {
+        padding: 40px 0;
+    }
+    .reklama__box-right {
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .reklama__left {
+        width: 80%;
+    }
+    .review__box {
+        width: 98%;
+        margin: 0 auto;
+    }
+    .review__text {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+    .review__networks {
+        font-size: 17px;
+    }
+    .main__four-btn {
+        padding: 15px 0;
+        font-size: 35px;
+        border-radius: 25px;
+        line-height: normal;
+    }
+    .main__four-form {
+        padding: 10px;
+    }
+    .main__four-inputname {
+        margin-bottom: 20px;
+    }
+    .main__four-numbers {
+        margin-bottom: 20px;
+    }
+    .zayavka__box {
+        padding: 50px 0;
+    }
+    .studio {
+        padding: 10px 0 101px 0;
+    }
+    .studio__title {
+        font-size: 50px;
+        padding-left: 130px;
+        margin-bottom: 130px;
+    }
+    .studio__title-end {
+        font-size: 50px;
+    }
+    .studio__link {
+        font-size: 30px;
+    }
+    .studio__networks {
+        width: 60%;
+    }
+    .aboutstudio {
+        width: 98%;
+    }
+    .aboutstudio__title {
+        font-size: 30px;
+    }
+    .us__box {
+        display: block;
+        padding: 20px 0;
+    }
+    .us__right {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .us__left {
+        padding-top: 0;
+        width: 100%;
+    }
+    .us__title {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .menu-mobile {
+        width: 35%;
+    }
+    .frontend__card-top {
+        padding-top: 110px;
+    }
+}
+
+@media only screen and (max-width: 545px) {
+    .frontend__card {
+        width: 95%;
+    }
+    .frontend__card-top {
+        padding-top: 125px;
+    }
+}
+
+@media only screen and (max-width: 505px) {
+    .it__title {
+        font-size: 60px;
+    }
+    .frontend__card-top {
+        padding-top: 95px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .main__three {
+        padding: 50px 0;
+    }
+    .main__three-title {
+        max-width: 60%;
+        font-size: 30px;
+    }
+    .main__two-box {
+        padding-bottom: 30px;
+    }
+    .main__two-item {
+        margin-bottom: 30px;
+    }
+    .main__two-list {
+        margin-bottom: 5px;
+    }
+    .main__four {
+        padding: 30px 0;
+    }
+    .main__four-title {
+        font-size: 25px;
+        margin-bottom: 0;
+    }
+    .main__four-text {
+        max-width: 85%;
+        margin-bottom: 15px;
+        font-size: 22px;
+        font-weight: 400;
+        margin-bottom: 0;
+    }
+    .main__four-inputname {
+        padding: 20px 10px;
+    }
+    .main__four-numbers {
+        padding: 15px 10px;
+    }
+    .main__four-flagbox {
+        padding: 5px;
+    }
+    .main__two-link {
+        font-size: 25px;
+        padding: 20px 5px;
+    }
+    .interesting__box {
+        padding: 30px 0;
+    }
+    .codecraftcompany__link {
+        line-height: normal;
+        padding: 20px 0;
+        font-size: 25px;
+    }
+    .js__box {
+        padding-top: 120px;
+    }
+    .js__info {
+        width: 95%;
+    }
+    .js__title {
+        max-width: 100%;
+    }
+    .js__img-box {
+        height: 300px;
+    }
+    .js__img {
+        height: 300px;
+    }
+    .js__item {
+        margin-bottom: 30px;
+    }
+    .for__card-boxfirst {
+        width: 100%;
+    }
+    .for__card-first {
+        padding: 10px 5px;
+        border: 5px solid #0AEB06;
+    }
+    .for__card-boxsecond {
+        width: 100%;
+        padding-top: 10px;
+    }
+    .for__card-second {
+        padding: 10px 5px;
+        border: 5px solid #0AEB06;
+    }
+    .for__card-boxthree {
+        width: 100%;
+        padding-top: 10px;
+    }
+    .for__card-three {
+        padding: 10px 5px;
+        border: 5px solid #0AEB06;
+    }
+    .sale__year {
+        margin-bottom: 30px;
+    }
+    .sale__course {
+        margin-bottom: 15px;
+        line-height: normal;
+    }
+    .sale__mounth {
+        line-height: normal;
+        margin-bottom: 0;
+    }
+    .sale__form-input {
+        margin-bottom: 30px;
+    }
+    .sale__money-text {
+        margin-bottom: 0;
+    }
+    .discount__title {
+        font-size: 38px;
+        padding-left: 0px;
+        padding-bottom: 70px;
+    }
+    .discount__title-end {
+        font-size: 38px;
+    }
+    .discount__text {
+        padding-left: 10px;
+        font-weight: 300;
+    }
+    .request__box {
+        padding: 30px 5px;
+    }
+    .request__card-texttitle {
+        font-size: 20px;
+    }
+    .studio__link {
+        font-size: 20px;
+        padding: 22px 12px;
+    }
+    .studio__title {
+        padding-top: 30px;
+        padding-left: 10px;
+        font-size: 35px;
+        line-height: normal;
+    }
+    .studio__title-end {
+        font-size: 35px;
+        line-height: normal;
+        color: #0AEB06;
+    }
+    .studio__networks {
+        padding: 30px 0 100px 0;
+        width: 50%;
+    }
+    .studio__network {
+        width: 40px;
+        height: 40px;
+    }
+    .frontend__card:hover {
+        position: relative;
+        animation-name: card;
+        animation-duration: 1s;
+    }
+    @keyframes card {
+        0% {
+            right: 0px;
+            top: 0px;
+        }
+        100% {
+            transform: scale(1);
+            right: 10px;
+            top: 10px;
+        }
+    }
+    .frontend__card:hover .frontend__card-img {
+        width: 230px;
+        height: 230px;
+        position: relative;
+        animation-name: example;
+        animation-duration: 1s;
+    }
+    @keyframes example {
+        0% {
+            left: 0px;
+            bottom: 0px;
+        }
+        100% {
+            transform: scale(1.05);
+            left: 100px;
+            bottom: 30px;
+        }
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .main__three {
+        padding: 80px 0;
+    }
+    .footer__website {
+        margin-left: 0;
+    }
+    .footer__networks {
+        margin-left: 0;
+    }
+    .footermap__box {
+        height: 500px;
+    }
+    .main__four-text {
+        font-size: 20px;
+        line-height: 30px;
+        max-width: 90%;
+    }
+    .main__four-flagbox {
+        width: 120px;
+        padding: 5px;
+    }
+    .main__four-imgflag {
+        width: 30px;
+        height: 30px;
+    }
+    .main__four-telnums {
+        font-size: 20px;
+    }
+    .main__four-link {
+        font-size: 25px;
+        padding: 5px;
+    }
+    .main__four-vector {
+        width: 10px;
+        height: 10px;
+    }
+    .footer {
+        padding: 30px 0;
+    }
+    .main__four-flagbox {
+        align-items: center;
+    }
+    .main__four-telnums {
+        font-size: 16px;
+    }
+    .main__four-vector {
+        width: 10px;
+        height: 10px;
+    }
+    .blog__box {
+        padding: 0;
+    }
+    .sale__top-title {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: normal;
+    }
+    .sale__top-text {
+        font-size: 18px;
+    }
+    .sale__form-btn {
+        font-size: 18px;
+        padding: 10px 0;
+    }
+    .sale__money {
+        display: block;
+    }
+    .sale__money-box {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .game__box {
+        padding-top: 30px;
+    }
+    .predlojeniye-text {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .job__label {
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .job__input {
+        border: 2px solid #0AEB06;
+        font-size: 16px;
+    }
+    .review__box {
+        width: 100%;
+    }
+    .review__text {
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .review__networks {
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .frontend__card-top {
+        padding-top: 75px;
+    }
+}
+
+@media only screen and (max-width: 454px) {
+    .main__four-title {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .main__four-text {
+        font-size: 16px;
+        line-height: 20px;
+        max-width: 90%;
+    }
+    .main__four-inputname {
+        padding: 10px 10px;
+        font-size: 20px;
+    }
+    .main__four-numbers {
+        padding: 10px 10px;
+    }
+    .main__four-inputtel {
+        font-size: 20px;
+    }
+    .main__four-link {
+        font-size: 20px;
+    }
+    .main__four-flagbox {
+        padding: 0 5px;
+    }
+    .main__four-imgflag {
+        width: 25px;
+        height: 25px;
+    }
+    .main__four-telnums {
+        font-size: 16px;
+    }
+    .main__four-vector {
+        width: 10px;
+        height: 10px;
+    }
+    .discount__box {
+        background-size: 210%;
+    }
+    .kabinet__label {
+        margin-bottom: 15px;
+    }
+    .kabinet__label-text {
+        margin-bottom: 5px;
+    }
+    .codecraftcompany__text {
+        font-size: 14px;
+    }
+    .codecraftcompany__link {
+        font-size: 20px;
+        padding: 15px 0;
+    }
+    .js__title {
+        font-size: 26px;
+        margin-bottom: 20px;
+    }
+    .for__card-lefttitle {
+        font-size: 18px;
+        font-weight: 900;
+        line-height: normal;
+        margin-bottom: 12px;
+    }
+    .for__card-line {
+        border: 2px solid #fff;
+        margin-bottom: 12px;
+    }
+    .for__cardleft-title {
+        font-size: 16px;
+    }
+    .for__card-text {
+        font-size: 14px;
+        line-height: normal;
+    }
+    .for__card-circle {
+        width: 8px;
+        height: 8px;
+    }
+    .zayavka__box {
+        padding: 0;
+    }
+    .zayavka__title {
+        margin-bottom: 10px;
+    }
+    .main__four-btn {
+        font-size: 28px;
+    }
+    .frontend__card-top {
+        padding-top: 154px;
+    }
+    .frontend__card-link {
+        font-size: 22px;
+        padding: 16px 0;
+    }
+    .frontend__card-text {
+        font-size: 14px;
+        line-height: normal;
+        margin-bottom: 10px;
+    }
+    .frontend__card-span {
+        padding: 7px;
+    }
+    .frontend__card-finish {
+        font-size: 16px;
+    }
+    .frontend__card-img {
+        width: 160px;
+        height: 160px;
+        margin-bottom: 0;
+    }
+    .frontend__card:hover .frontend__card-img {
+        width: 150px;
+        height: 150px;
+    }
+}
+
+@media only screen and (max-width: 440px) {
+    .group__skidkabox {
+        padding: 20px;
+    }
+    .group__box-bgimg {
+        width: 100%;
+    }
+    .group__site-img {
+        width: 90%;
+    }
+    .request__card-info {
+        padding: 0 10px 20px 10px;
+    }
+    .request__card-text {
+        font-size: 14px;
+    }
+    .request__card-texttitle {
+        margin-bottom: 15px;
+    }
+    .request__card-title {
+        font-size: 30px;
+        line-height: normal;
+    }
+    .request__card-alert {
+        font-size: 20px;
+        line-height: normal;
+        margin-bottom: 15px;
+    }
+    .request__card-link {
+        font-size: 25px;
+    }
+    .it__title {
+        font-size: 45px;
+    }
+    .footer__website {
+        width: 100%;
+    }
+    .footer__website-title {
+        font-size: 15px;
+        font-weight: 700;
+    }
+    .footer__website-text {
+        font-size: 18px;
+    }
+    .footer__networks {
+        width: 100%;
+    }
+    .footer__networks-link {
+        width: 20%;
+    }
+    .footer__networks-link-img {
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    .frontend__card-top {
+        padding-top: 135px;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    .title {
+        font-size: 35px;
+        width: 90%;
+    }
+    .main__three-title {
+        max-width: 70%;
+    }
+    .main__one-btn {
+        width: 80%;
+        font-size: 20px;
+        font-weight: 700;
+        padding: 0;
+        height: 60px;
+    }
+    .kabinet__title {
+        font-size: 45px;
+    }
+    .js__box {
+        padding-top: 100px;
+    }
+    .sale__top-box {
+        font-size: 22px;
+    }
+    .sale__top-info {
+        font-size: 22px;
+    }
+    .menu-mobile {
+        width: 40%;
+    }
+    .menu-list {
+        margin: 0;
+        padding: 5px;
+    }
+}
+
+@media only screen and (max-width: 410px) {
+    .frontend__card-top {
+        padding-top: 125px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .frontend__card-top {
+        padding-top: 75px;
+    }
+    .frontend__card-title {
+        font-size: 20px;
+        color: #FFFFFF;
+    }
+    .frontend__card-text {
+        font-weight: 500;
+    }
+    .frontend__card-link {
+        font-size: 18px;
+        padding: 10px 0;
+    }
+    .frontend__card-span {
+        width: 90%;
+        padding: 5px 0;
+    }
+}
+
+@media only screen and (max-width: 390px) {
+    .main__four-title {
+        max-width: 100%;
+        line-height: 40px;
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .main__four-it {
+        line-height: 40px;
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .main__four-text {
+        line-height: 20px;
+        max-width: 80%;
+    }
+    .main__four-inputname {
+        font-size: 18px;
+    }
+    .main__four-telnums {
+        font-size: 18px;
+    }
+    .main__four-inputname {
+        font-size: 18px;
+    }
+    .main__four-link {
+        line-height: 55px;
+        font-size: 19px;
+    }
+    .main__two-link {
+        font-size: 20px;
+    }
+    .discount__text {
+        font-size: 18px;
+    }
+    .game__info {
+        font-size: 18px;
+    }
+    .blog__linkpage {
+        font-size: 22px;
+    }
+    .group__skidka-text::before {
+        padding: 10px;
+        font-size: 17px;
+    }
+    .sale__top-title {
+        font-size: 24px;
+        font-weight: 600;
+    }
+    .sale__top-box {
+        font-size: 20px;
+    }
+    .sale__top-info {
+        font-size: 20px;
+    }
+    .aboutstudio__title {
+        font-size: 22px;
+    }
+    .studio {
+        padding-bottom: 30px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .group__box-bgimg {
+        background-size: 120%;
+    }
+    .group__education-text {
+        font-size: 18px;
+        margin-bottom: 90px;
+    }
+    .studio__title {
+        padding-left: 0;
+        padding-top: 30px;
+        font-size: 27px;
+        margin-bottom: 130px;
+    }
+    .studio__title-end {
+        font-size: 27px;
+        color: #0AEB06;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .title {
+        font-size: 30px;
+    }
+    .main__three-title {
+        max-width: 78%;
+    }
+    .main__four-title {
+        font-size: 16px;
+    }
+    .main__four-text {
+        font-size: 13px;
+        max-width: 80%;
+    }
+    .discount__title {
+        font-size: 32px;
+        padding-bottom: 40px;
+    }
+    .discount__title-end {
+        font-size: 32px;
+    }
+    .game__title {
+        font-size: 25px;
+    }
+    .kabinet__title {
+        font-size: 40px;
+    }
+    .js__box {
+        padding-top: 80px;
+    }
+    .js__title {
+        font-size: 23px;
+        font-weight: 600;
+    }
+    .group__box-bgimg {
+        background-size: 125%;
+    }
+    .sale__top {
+        background-size: 63%;
+    }
+    .sale__top-box {
+        padding-left: 60px;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    .group__box-bgimg {
+        background-size: 130%;
+    }
+    .group__education-mounth {
+        margin-bottom: 60px;
+    }
+    .group__education-text {
+        margin-bottom: 80px;
+    }
+    .frontend__card-top {
+        padding-top: 70px;
+        padding-bottom: 0;
+    }
+}
